@@ -1,4 +1,4 @@
-<h3 style="font-weight: bol">Olá! Eu sou o Gabriel 👋<h3>
+<h3 style="font-weight: bold">Olá! Eu sou o Gabriel 👋<h3>
   <p>Estudante do curso Técnico em Informática do IFSULDEMINAS</p>
   
 <br>
