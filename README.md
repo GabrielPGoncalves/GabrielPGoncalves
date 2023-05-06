@@ -16,12 +16,13 @@
 
 <h2>🔧 Ferramentas</h2>
   <div>
-    <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij IDEA"></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="Intellij IDEA"></a>
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   </div> 
   
 <br>  
   
 <h2>📮 Contatos</h2>
   <div>
-    <a href="mailto:gabrieldepaula885@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"></a>
+    <a href="mailto:gabrieldepaula885@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"></a>
   </div>  
