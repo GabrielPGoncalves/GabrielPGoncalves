@@ -25,5 +25,5 @@
   
 <h2>📮 Contatos</h2>
   <div>
-    <a href="mailto:gabrieldepaula885@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"></a>
+    <a href="mailto:gabrielpgoncalves09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"></a>
   </div>  
